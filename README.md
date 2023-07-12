@@ -26,3 +26,19 @@ Processing: The bank's system processes the transaction, employing various techn
 Settlement: During the settlement phase, the transaction is finalized and necessary adjustments are made to the involved accounts.
 
 Confirmation: To provide peace of mind, the bank issues a confirmation to the customer, acknowledging the successful completion of the transaction. This confirmation can be delivered through an on-screen message.
+
+## The List of Contributors
+
+This was a team effort to ensure the completion of our group project, the BANK UI. We all learnt new things while trying to complete this assignment.
+
+The list of contributors:
+
+Gideon Ghata Ghata BHU/22/04/05/0064
+
+Shuaibu Abbas Emmaneul BHU/22/04/09/0010
+
+Stephen Chilotam Emenike BHU/22/04/05/0016
+
+Edoise Winner John BHU/22/04/05/0020
+
+Ezeafulukwe Kamsy Robert BHU/22/04/05/0051
